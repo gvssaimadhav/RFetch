@@ -1,5 +1,5 @@
 {
-  "name": "forkify",
+  "name": "R-Fetch",
   "version": "1.0.0",
   "description": "Recipe application",
   "default": "index.html",
@@ -7,7 +7,7 @@
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
   },
-  "author": "Jonas Schedtmann",
+  "author": "GVS Sai Madhav & Team",
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.5.0",
